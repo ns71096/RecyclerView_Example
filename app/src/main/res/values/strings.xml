@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="increment">Increment</string>
+    <string name="count">Count</string>
+</resources>
